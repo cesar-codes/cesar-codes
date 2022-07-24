@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">A passionate frontend developer from Boston</h3>
 <p align="center">
-![Codewars Badge](https://www.codewars.com/users/cesaravina/badges/large "Codewars Badge")
+  <img src="https://www.codewars.com/users/cesaravina/badges/large" />
 </p>
 <p align="left">
 </p>
