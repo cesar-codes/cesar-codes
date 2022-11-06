@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
-<h3 align="center">A passionate frontend developer from Boston</h3>
+<h3 align="center">A passionate fullstack developer from Boston</h3>
 <p align="center">
   <img src="https://www.codewars.com/users/cesaravina/badges/large" />
 </p>
